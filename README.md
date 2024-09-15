@@ -29,15 +29,15 @@ I am an enthusiastic and passionate Machine Learning and Blockchain Developer, c
 
 ## Projects
 
-### [Deepfake Detection and Blockchain Certification System](https://github.com/sharathcx/deepfake-detection)
+### [Deepfake Detection and Blockchain Certification System]
 Developed an AI-powered tool for detecting deepfake media, integrated with a blockchain certification system to provide authenticity certificates as NFTs.
 - **Technologies Used:** Python, Machine Learning, Deep Learning, Blockchain, NFTs, Cryptocurrency
 
-### [Blockchain-Enabled Advertisement Platform](https://github.com/sharathcx/blockchain-ad-platform)
+### [Blockchain-Enabled Advertisement Platform]
 Designed and developed a blockchain-enabled advertisement platform focused on Telegram, utilizing the NOT-Coin business model to gamify the process of earning points and increasing platform popularity. Implemented an AI-powered advertisement recommendation system.
 - **Technologies Used:** Blockchain, Cryptocurrency, Telegram API, Python, Smart Contracts, MATIC, Artificial Intelligence
 
-### [Spam Mail Detection Using Machine Learning](https://github.com/sharathcx/spam-detection)
+### [Spam Mail Detection Using Machine Learning]
 Developed a machine learning model to detect spam emails, leveraging Python and machine learning techniques.
 - **Technologies Used:** Python, Scikit-learn, Machine Learning
 
