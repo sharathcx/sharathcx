@@ -41,7 +41,7 @@ Developed a machine learning model to detect spam emails, leveraging Python and 
 
 - **Bachelor of Engineering in Computer Science**  
   Amrita Vishwa Vidyapeetham (2022-2026)  
-  CGPA: 8.39
+  CGPA: 8.2
 
 - **Higher Secondary Education**  
   St. Joseph's Boys' Higher Secondary School (2016-2021)
