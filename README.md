@@ -2,7 +2,7 @@
 # Hi there, I'm Sarath Chandra 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/sharathcx?label=Follow&style=social)](https://github.com/sharathcx)
-[![Linkedin Badge](https://img.shields.io/badge/-Sarath_Chandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharath-chandra-4314061b6)](https://www.linkedin.com/in/sharath-chandra-4314061b6)
+[![Linkedin Badge](https://img.shields.io/badge/-Sarath_Chandra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharath-chandra-4314061b6)](www.linkedin.com/in/sarath-chandra-4314061b6)
 [![Devfolio Badge](https://img.shields.io/badge/Devfolio-Sarath_Chandra-29a19c?style=flat-square&logo=Devfolio&logoColor=white&link=https://devfolio.co/@sarathC)](https://devfolio.co/@sarathC)
 
 ## About Me
