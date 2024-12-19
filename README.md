@@ -11,7 +11,7 @@
 I am an enthusiastic **Machine Learning** and **Blockchain Developer**, currently in my 3rd year pursuing a **Bachelor's degree in Computer Science** at **Amrita Vishwa Vidyapeetham**. I’m passionate about leveraging technology to solve real-world problems and have worked on several innovative projects utilizing **AI**, **Blockchain**, and **Backend Development**.  
 
 - 🌱 **Currently Learning:** Advanced concepts in AI, Blockchain, and Web Development.  
-- 🤖 **Building:** Projects at the intersection of Gen AI, Blockchain, and Healthcare (e.g., **HealthVault**, **Fam.ai**).  
+- 🤖 **Building:** Projects at the intersection of Gen AI, Blockchain, and Healthcare (e.g., **HealthVault**, **Deploy.ai**, **Fam.ai**).  
 - 🏆 **Achievements:** Hackathon awards for projects demonstrating technical excellence in **AI** and **Blockchain**.  
 - 💬 **Ask Me About:** Python, Machine Learning, Deep Learning, Blockchain, or FastAPI.  
 
@@ -41,6 +41,11 @@ An award-winning project that distinguishes real from manipulated visual content
 - **Achievements:** Won 3rd Prize ($1000) in HackOnBlocks (Track: Best MVP of Polygon Cardano).  
 - **Technologies:** Alephium, Python, Machine Learning, NFTs.  
 
+### **Deploy.ai**  
+A platform designed to simplify the deployment of machine learning models, making it easier for developers and researchers to operationalize their AI solutions.  
+- **Features:** Model packaging, cloud integration, and REST API generation for seamless deployment.  
+- **Technologies:** FastAPI, Docker, Python.  
+
 ### **Fam.ai**  
 A competition-winning project that integrates AI to improve familial support systems through predictive analysis and personalization.  
 - **Achievements:** Runner-up in a competitive hackathon.  
@@ -61,7 +66,6 @@ A competition-winning project that integrates AI to improve familial support sys
 
 - 🎓 **Bachelor of Engineering in Computer Science**  
   **Amrita Vishwa Vidyapeetham (2022-2026)**  
-  CGPA: **8.2**  
 
 - 🏫 **Higher Secondary Education**  
   **St. Joseph's Boys' Higher Secondary School (2016-2021)**  
