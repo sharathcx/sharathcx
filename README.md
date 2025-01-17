@@ -90,7 +90,3 @@ A decentralized **crowdfunding** platform built on **Blockchain** that ensures t
 - 📍 **Location:** Calicut, Kerala, India  
 
 ---
-
-## Resume  
-
-For more detailed information about my professional experience, skills, and projects, you can refer to my resume: [Resume Link](insert_your_resume_link_here).
