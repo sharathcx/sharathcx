@@ -50,6 +50,10 @@ A platform designed to simplify the deployment of machine learning models, makin
 A competition-winning project that integrates AI to improve familial support systems through predictive analysis and personalization.  
 - **Achievements:** Runner-up in a competitive hackathon.  
 
+### **CrowdBank**  
+A decentralized **crowdfunding** platform built on **Blockchain** that ensures transparency and trust for both creators and contributors. The platform leverages **smart contracts** to create a secure and efficient ecosystem for raising funds for various causes and projects.  
+- **Technologies:** Blockchain, Solidity, Ethereum, Smart Contracts, Web3.js.  
+
 ---
 
 ## Achievements  
@@ -84,3 +88,9 @@ A competition-winning project that integrates AI to improve familial support sys
 - 📧 **Email:** [sharathpournami@gmail.com](mailto:sharathpournami@gmail.com)  
 - 💻 **GitHub:** [github.com/sharathcx](https://github.com/sharathcx)  
 - 📍 **Location:** Calicut, Kerala, India  
+
+---
+
+## Resume  
+
+For more detailed information about my professional experience, skills, and projects, you can refer to my resume: [Resume Link](insert_your_resume_link_here).
