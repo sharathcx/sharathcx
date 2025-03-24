@@ -64,17 +64,6 @@ A decentralized **crowdfunding** platform built on **Blockchain** that ensures t
 - 🏆 **Runner-up - Fam.ai:**  
   Recognized for innovative problem-solving and application of AI in familial systems.  
 
----
-
-## Education  
-
-- 🎓 **Bachelor of Engineering in Computer Science**  
-  **Amrita Vishwa Vidyapeetham (2022-2026)**  
-
-- 🏫 **Higher Secondary Education**  
-  **St. Joseph's Boys' Higher Secondary School (2016-2021)**  
-
----
 
 ## Languages  
 
